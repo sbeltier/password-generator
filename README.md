@@ -10,4 +10,4 @@ The output will be a randomized password with some length between 8 to 128 chara
 
 After clicking the button "generate password", users MUST complete the criteria selection.
 
-See it in action [here](https://sbeltier.github.io/password-generator/)!
+See it in action [here](https://sbeltier.github.io/password-generator/index.html)!
